@@ -222,3 +222,4 @@ rmdir images
 cd -
 rm images/
 rmdir images/
+ls --color=auto
