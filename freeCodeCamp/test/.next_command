@@ -128,3 +128,4 @@ touch footer.png
 rm footer.png
 ls --color=auto
 touch footer.jpeg
+ls --color=auto
