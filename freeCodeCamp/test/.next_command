@@ -195,3 +195,4 @@ cd ..
 clear
 mkdir assets
 cd assets/
+mkdir images
