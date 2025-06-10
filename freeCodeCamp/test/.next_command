@@ -223,3 +223,5 @@ cd -
 rm images/
 rmdir images/
 ls --color=auto
+mkdir client/assets/icon
+mv client/assets/icon client/assets/icons
