@@ -187,3 +187,8 @@ __vsc_prompt_cmd_original
 clear
 ls --color=auto
 find
+__vsc_prompt_cmd_original
+ls --color=auto
+cd client/src/
+cd..
+cd ..
